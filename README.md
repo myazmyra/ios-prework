@@ -20,11 +20,9 @@ The following **optional** features are implemented:
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
-* the app denies any invalid entry by the user; i.e. more than two decimal values, more than one decimal point and so on.
-* change tip percentage values for all three options
-* tap anywhere on the screen to get rid of the keyboard
-
-- List anything else that you can get done to improve the app functionality!
+* [x] the app denies any invalid entry by the user; i.e. more than two decimal values, more than one decimal point and so on.
+* [x] change tip percentage values for all three options
+* [x] tap anywhere on the screen to get rid of the keyboard
 * [ ] save the bill amount and tip amount in the notes so you can check later. This is especially good since Notes now has different threads
 * [ ] split the bill
 * [ ] keep track of total/average tips per dollar
