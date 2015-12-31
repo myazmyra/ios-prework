@@ -23,6 +23,7 @@ The following **additional** features are implemented:
 * [x] the app denies any invalid entry by the user; i.e. more than two decimal values, more than one decimal point and so on.
 * [x] change tip percentage values for all three options
 * [x] tap anywhere on the screen to get rid of the keyboard
+* [x] add clear button to the bill field
 * [ ] save the bill amount and tip amount in the notes so you can check later. This is especially good since Notes now has different threads
 * [ ] split the bill
 * [ ] keep track of total/average tips per dollar
