@@ -13,18 +13,18 @@ The following **required** functionality is complete:
 * [yes] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [yes] Settings page to change the default tip percentage.
-* [no] UI animations
-* [no] Remembering the bill amount across app restarts (if <10mins)
-* [no] Using locale-specific currency and currency thousands separators.
-* [yes] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ ] Settings page to change the default tip percentage.
+* [ ] UI animations
+* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Using locale-specific currency and currency thousands separators.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 * the app denies any invalid entry by the user; i.e. more than two decimal values, more than one decimal point and so on.
 * change tip percentage values for all three options
 * tap anywhere on the screen to get rid of the keyboard
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- List anything else that you can get done to improve the app functionality!
 * [ ] save the bill amount and tip amount in the notes so you can check later. This is especially good since Notes now has different threads
 * [ ] split the bill
 * [ ] keep track of total/average tips per dollar
