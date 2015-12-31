@@ -1,5 +1,5 @@
 # ios-prework
-# Pre-work - *Name of App Here*
+# Pre-work - TipRight
 
 TipRight is a tip calculator application for iOS.
 
